@@ -1,5 +1,5 @@
 {
-  "homepage": "https://We-Dey-4-U.github.io/movie-app",
+  "homepage": "https://We-Dey-4-U.github.io/movie-app/public/",
   "name": "my-react-app",
   "version": "0.1.0",
   "private": true,
@@ -19,6 +19,7 @@
     "formik": "^2.2.9",
     "query-string": "^8.1.0",
     "react": "^18.2.0",
+    "react-bootstrap": "^2.7.4",
     "react-dom": "^18.2.0",
     "react-redux": "^8.0.5",
     "react-router-dom": "^6.10.0",
